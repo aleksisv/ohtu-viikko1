@@ -39,3 +39,9 @@ jar {
         attributes 'Main-Class': 'ohtu.ohtuvarasto.Main'
     }
 }
+
+
+//Coveralls
+plugins {
+    id 'com.github.kt3k.coveralls' version '2.8.1'
+}

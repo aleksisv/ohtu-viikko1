@@ -6,10 +6,6 @@
  * user guide available at https://docs.gradle.org/3.4.1/userguide/tutorial_java_projects.html
  */
 
- //Coveralls
-plugins {
-    id 'com.github.kt3k.coveralls' version '2.8.1'
-}
 
 // Apply the java plugin to add support for Java
 apply plugin: 'java'
@@ -18,6 +14,10 @@ apply plugin: 'java'
 apply plugin: 'application'
 
 apply plugin: "jacoco"
+
+plugins {
+    id 'com.github.kt3k.coveralls' version '2.8.1'
+}
 
 // In this section you declare where to find the dependencies of your project
 repositories {

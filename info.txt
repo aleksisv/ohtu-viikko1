@@ -1,10 +1,8 @@
 Katsot nyt harjoitustani.
 Ja tämä on harjoitukseni.
-<<<<<<< HEAD
 Ja tämä on harjoitukseni.
 
 Myös tämä, mutta tämä ei mene klooniin kai.
 =======
 Ja tämä myös.
 Vielä lisää.
->>>>>>> 3bfab54346c9cd55e92da051570fa2db6db464c5

@@ -1,2 +1,5 @@
 Katsot nyt harjoitustani.
 Ja tämä on harjoitukseni.
+Ja tämä on harjoitukseni.
+
+Myös tämä, mutta tämä ei mene klooniin kai.

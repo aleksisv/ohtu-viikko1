@@ -6,3 +6,4 @@ Myös tämä, mutta tämä ei mene klooniin kai.
 =======
 Ja tämä myös.
 Vielä lisää.
+Pieni muutos.
